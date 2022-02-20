@@ -1,6 +1,6 @@
 # Dialog
 
-![Logo](assets/img/logo-putih.png)
+![Logo](assets/img/logo-hitam.png)
 
 ## ✨Description
 
