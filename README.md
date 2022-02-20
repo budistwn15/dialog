@@ -1,5 +1,3 @@
-# Dialog
-
 ![Logo](assets/img/logo-hitam.png)
 
 ## ✨Description
